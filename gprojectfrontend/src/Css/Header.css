@@ -1,0 +1,5 @@
+.parallelogram {
+    transform: skewX(-20deg);
+    display: inline-block;
+  }
+  
